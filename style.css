@@ -1,0 +1,205 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  width: 1600px;
+}
+
+main {
+  width: 1600px;
+}
+
+body {
+  width: 1600px;
+}
+
+img {
+  display: block;
+}
+
+.header {
+  display: flex;
+  width: 1600px;
+  height: 75px;
+  background-color: #222222;
+}
+
+#logo {
+  width: 44px;
+  height: 38px;
+  margin: 18px 0px 0px 231px;
+}
+.background_of_buttons {
+  background-color: #f6f6f600;
+}
+
+#button_1 {
+  width: 26px;
+  height: 26px;
+  margin: 28px 0px 0px 41px;
+}
+
+#button_2 {
+  width: 32px;
+  height: 23px;
+  margin: 30px 0px 0px 859px;
+}
+
+#button_3 {
+  width: 29px;
+  height: 29px;
+  margin: 26px 0px 0px 33px;
+}
+
+#button_4 {
+  width: 32px;
+  height: 29px;
+  margin: 26px 0px 0px 33px;
+}
+
+.the_brand {
+  display: flex;
+  background-image: url("img/Background.png");
+  width: 1600px;
+  height: 764px;
+}
+
+#img_the_brand {
+  width: 405px;
+  height: 93px;
+  margin: 290px 0px 381px 63px;
+}
+
+.button_in_products {
+  display: block;
+  width: 212px;
+  height: 48px;
+  border-color: rgb(255, 106, 106);
+  margin: 26px 463px 0px 465px;
+}
+
+.offer {
+  margin: 65px 230px 0px;
+  align-content: space-between;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 1140px;
+  height: 470px;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1140px;
+  height: 1395px;
+  margin: 96px 230px 95px;
+  align-items: self-start;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+.upper_text {
+  display: block;
+  /* width: 182px; */
+  /* height: 36px; */
+  font-size: 30px;
+  align-self: start;
+  margin: 0px 479px;
+}
+
+.lower_text {
+  display: block;
+  width: 336px;
+  height: 17px;
+  font-size: 14px;
+  align-self: flex-start;
+  margin: 0px 402px 0px;
+}
+
+.copyright {
+  display: flex;
+
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (4)/Background.svg");
+  height: 79px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px 230px 0px 0px;
+  width: 148px;
+  height: 32px;
+  justify-content: space-between;
+}
+
+.button1 {
+  min-width: 31.45px;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (4)/2.svg");
+}
+
+.button2 {
+  min-width: 31.45px;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (4)/4.svg");
+}
+
+.button3 {
+  min-width: 31.45px;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (4)/5.svg");
+}
+
+.button4 {
+  min-width: 31.45px;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (4)/6.svg");
+}
+
+.copyright_text {
+  color: rgb(251, 251, 251);
+  margin: 0px 0px 0px 230px;
+}
+
+.feature {
+  height: 341px;
+  display: flex;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (2)/Background.svg");
+  justify-content: space-between;
+  align-items: center;
+}
+
+.items1 {
+  margin: 0px 0px 0px 230px;
+}
+
+.items3 {
+  margin: 0px 230px 0px 0px;
+}
+
+.forma_7 {
+  height: 448px;
+  background-image: url("img/img/Seo & Digital Marketing Landing Page (3)/photo subscribe.svg");
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.subscribe {
+  margin: 0px 223px 0px 0px;
+}
+
+.subscribe_info {
+  margin: 0px 0px 0px 223px;
+  width: 329px;
+  height: 225px;
+}
+
+.subscribe_above_bar {
+  width: 557px;
+  height: 61px;
+}
+
+/* .subscribe{
+} */
