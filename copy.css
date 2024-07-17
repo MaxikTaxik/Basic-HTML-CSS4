@@ -1,0 +1,143 @@
+@media (max-width: 767px) {
+  html {
+  }
+
+  body {
+  }
+
+  main {
+  }
+
+  .header {
+    width: 100%;
+  }
+
+  #man_image {
+    display: none;
+  }
+
+  .the_brand {
+    width: 100%;
+    min-height: 363px;
+    justify-content: center;
+  }
+
+  #img_the_brand {
+    width: 238px;
+    height: 66px;
+  }
+  .offer {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .products {
+    width: 100%;
+  }
+
+  #button_3 {
+    display: none;
+  }
+
+  #button_4 {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  html {
+    /* max-width: 1600px; */
+    width: unset;
+  }
+
+  body {
+    max-width: 1600px;
+    /* width: unset; */
+  }
+
+  .header {
+  }
+
+  #logo {
+    margin: unset;
+  }
+
+  #button_1 {
+    margin: unset;
+  }
+
+  #button_2 {
+  }
+
+  #button_3 {
+    display: none;
+  }
+
+  #button_4 {
+    display: none;
+  }
+
+  .the_brand {
+    height: 363px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #man_image {
+    display: none;
+  }
+
+  #img_the_brand {
+    height: 66px;
+    width: 263px;
+    margin: unset;
+  }
+
+  .offer {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    min-height: 951px;
+    justify-content: center;
+    width: unset;
+    height: unset;
+    margin: unset;
+  }
+
+  .img_offer {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .products {
+    width: unset;
+    margin: unset;
+  }
+
+  .upper_text {
+    display: inline;
+    width: unset;
+    height: unset;
+    font-size: 30px;
+    align-self: start;
+    margin: unset;
+  }
+
+  .lower_text {
+    display: inline;
+    width: unset;
+    height: unset;
+    font-size: 14px;
+    align-self: flex-start;
+    margin: unset;
+  }
+
+  footer {
+    display: none;
+  }
+}
